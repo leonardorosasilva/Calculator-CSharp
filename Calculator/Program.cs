@@ -1,5 +1,5 @@
+//Não era necessário ter criado os métodos das operações, mas quis fazer para utilizar mais elementos
 ﻿using System;
-
 namespace Calculator
 {
     class Program
